@@ -1,0 +1,22 @@
+
+.container{
+  width: 90%;
+  margin: auto;
+}
+
+.container h1{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 3rem;
+}
+
+.card{
+  display: flex;
+  align-items: center;
+  width: max-content;
+  margin: auto;
+}
+.card img{
+  margin-top: 60px;
+  width: 600px;
+}

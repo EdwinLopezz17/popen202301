@@ -1,0 +1,25 @@
+
+<header>
+
+  <p class="branding">Technogym Indoor Marathon </p>
+
+  <span class="space"></span>
+
+  <div class="language">
+
+    <select (change)="changeLanguage($any($event.target).value)">
+      @for (lang of languages; track lang){
+        <option [value]="lang.toLowerCase()">{{ lang}}</option>
+      }
+    </select>
+  </div>
+
+  <div class="options">
+    <button>   <a href="home">Home</a>   </button>
+    <button><a href="records">Records</a></button>
+  </div>
+
+
+
+</header>
+

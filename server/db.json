@@ -1,0 +1,22 @@
+{
+  "participants": [
+    { "id": 1, "firstName": "John", "lastName": "Doe", "photoUrl": "/photos/john_doe.jpg", "centerId": 1, "ranking": 1, "recordTime": "02:45:30" },
+    { "id": 2, "firstName": "Jane", "lastName": "Smith", "photoUrl": "/photos/jane_smith.jpg", "centerId": 2, "ranking": 2, "recordTime": "02:50:12" },
+    { "id": 3, "firstName": "Jim", "lastName": "Beam", "photoUrl": "/photos/jim_beam.jpg", "centerId": 3, "ranking": 3, "recordTime": "03:01:45" },
+    { "id": 4, "firstName": "Alice", "lastName": "Johnson", "photoUrl": "/photos/alice_johnson.jpg", "centerId": 4, "ranking": 4, "recordTime": "03:15:22" },
+    { "id": 5, "firstName": "Bob", "lastName": "Lee", "photoUrl": "/photos/bob_lee.jpg", "centerId": 5, "ranking": 5, "recordTime": "03:22:10" },
+    { "id": 6, "firstName": "Eve", "lastName": "Brown", "photoUrl": "/photos/eve_brown.jpg", "centerId": 6, "ranking": 6, "recordTime": "03:30:05" },
+    { "id": 7, "firstName": "Charlie", "lastName": "White", "photoUrl": "/photos/charlie_white.jpg", "centerId": 1, "ranking": 7, "recordTime": "03:35:50" },
+    { "id": 8, "firstName": "Dave", "lastName": "Black", "photoUrl": "/photos/dave_black.jpg", "centerId": 2, "ranking": 8, "recordTime": "03:45:00" },
+    { "id": 9, "firstName": "Emma", "lastName": "Green", "photoUrl": "/photos/emma_green.jpg", "centerId": 3, "ranking": 9, "recordTime": "03:50:25" },
+    { "id": 10, "firstName": "Frank", "lastName": "Miller", "photoUrl": "/photos/frank_miller.jpg", "centerId": 4, "ranking": 10, "recordTime": "04:00:40" }
+  ],
+  "centers": [
+    { "id": 1, "name": "Los Angeles" },
+    { "id": 2, "name": "New York" },
+    { "id": 3, "name": "Sydney" },
+    { "id": 4, "name": "Montreal" },
+    { "id": 5, "name": "Paris" },
+    { "id": 6, "name": "Madrid" }
+  ]
+}
